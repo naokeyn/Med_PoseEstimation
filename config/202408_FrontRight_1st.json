@@ -1,0 +1,8 @@
+{
+    "originalVideo": "../data/202408/右前_1回目_川村先生_定点.MOV",
+    "boxedVideo": "../data/202408/Annotated_BOX_FrontRight_1st_Kawamura.mp4",
+    "annotatedVideo": "../data/202408/Annotated_POSE_FrontRight_1st_Kawamura.mp4",
+    "boundingBoxData": "../data/202408/Box_FrontRight_1st_Kawamura.csv",
+    "poseLandmarkData": "../data/202408/Pose_FrontRight_1st_Kawamura.csv",
+    "targetIds": [2, 244, 268]
+}
