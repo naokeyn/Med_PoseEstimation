@@ -1,0 +1,14 @@
+services:
+  dk_ml:
+    image: huggingface/transformers-pytorch-gpu:latest
+    volumes:
+      - .:/app
+    ports:
+      - "6006:6006"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    shm_size: '16gb'
+    tty: true
