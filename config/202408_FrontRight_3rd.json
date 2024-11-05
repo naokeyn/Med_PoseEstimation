@@ -4,5 +4,5 @@
     "annotatedVideo": "../data/202408/Annotated_POSE_FrontRight_3rd_Kawamura.mp4",
     "boundingBoxData": "../data/202408/Box_FrontRight_3rd_Kawamura.csv",
     "poseLandmarkData": "../data/202408/Pose_FrontRight_3rd_Kawamura.csv",
-    "targetIds": [1]
+    "targetIds": [1, 159, 164, 166, 174, 255, 256]
 }
